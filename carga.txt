@@ -1,0 +1,12 @@
+Nombre:			Alex
+Sed:			100
+Hambre:			100
+Dinero:			13.5
+Sueno:			100
+Salud:			100
+Trampas:		false
+Malaria:		false
+Disenteria:		false
+FiebreDengue:		false
+FiebreTifoidea:	false
+Mochila:		Botella de Agua 1.5
